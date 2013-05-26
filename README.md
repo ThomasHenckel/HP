@@ -1,4 +1,0 @@
-HP
-==
-
-RubyOnRailsTest
